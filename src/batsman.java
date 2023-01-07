@@ -36,6 +36,7 @@ public class batsman extends player {
         this.half_century = half_century;
     }
 
+
     @Override
     public String toString() {
         return "batsman{" +
