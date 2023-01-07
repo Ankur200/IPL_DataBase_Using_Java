@@ -1,4 +1,4 @@
-public class batsman {
+public class batsman extends player {
     private int runs;
     private int century;
     private int half_century;
